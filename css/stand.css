@@ -23,3 +23,16 @@ th {
     color:#79350e
 
 }
+
+#a {
+    border: 8px solid rgb(124, 62, 4)
+}
+#b {
+    border: 8px solid rgb(124, 52, 3);
+}
+#q {
+    border: 8px solid rgb(124, 51, 2)
+}
+#w {
+    border: 8px solid rgba(109, 54, 3, 0.993);
+}
